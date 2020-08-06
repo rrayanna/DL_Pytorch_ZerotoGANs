@@ -1,4 +1,4 @@
-# DL_Pytorch_ZerotoGANs
+# ZerotoGANs course work
 
 https://www.freecodecamp.org/news/free-deep-learning-with-pytorch-live-course/
 
